@@ -1,1 +1,3 @@
 # Mon-gasque-IPA-Converter
+# Monégasque is a language spoken natively in Monaco, and it is a dying language. It was revived (legally) by Rainier III and was used a lot by Louis Frolla and Louis Notari, nowadays it is only really used in signs and as a part of the culture. It is taught in schools, but it is not used in daily life. 
+# This code converts text into IPA (with stress marks), which can be used to convert into audio, by using a third party website, such as ipa-reader.com. (I personally recommend using the French version, because it is approximate to how the Monégasque accent is heard in videos today.)
